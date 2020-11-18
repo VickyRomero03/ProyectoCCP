@@ -1,0 +1,15 @@
+#info{
+	background: #333;
+	color: #fff;
+	text-align: center;
+}
+
+#info .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.info-usar {
+	margin: 20px;
+}
